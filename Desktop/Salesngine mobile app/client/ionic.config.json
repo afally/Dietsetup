@@ -1,7 +1,0 @@
-{
-  "name": "Salesngine",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "react"
-}
