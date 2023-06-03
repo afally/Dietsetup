@@ -65,9 +65,7 @@ const Page: React.FC = () => {
         <IonGrid>
           <IonRow>
             <IonCol className="ion-padding">
-              <p>
-                Choose food items you want to show on the page of your store
-              </p>
+              <p>Choose food items you want to show on your store</p>
               {Array.from(selectedOptions).map((selectedOption) => (
                 <IonChip
                   className="custom-chip"
