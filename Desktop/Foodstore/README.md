@@ -10,7 +10,7 @@ Frontend: IONIC/REACT/TYPESCRIPT
 
 ### Dependencies
 
-Contained in package.json file
+Contained in package.json file within the client directory
 
 Built With
 
@@ -26,7 +26,7 @@ Below is an example of how you can instruct your audience on installing and sett
 
 #### Clone the repo
 
-#### Install NPM packages
+#### Install NPM packages within the client directory 
 
 #### npm install
 
