@@ -1,0 +1,6 @@
+ion-chip.custom-chip {
+  --background: #0c6dfd;
+  --color: white;
+  border-radius: 6px;
+  height: 50px;
+}
